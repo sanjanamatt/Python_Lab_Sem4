@@ -1,2 +1,2 @@
 print('Program 1')
-print("*  ")
+print("*san  ")
